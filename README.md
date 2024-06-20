@@ -5,3 +5,6 @@ Power BI is a popular data visualization tool that allows us to create interacti
 
 With the power of Power BI, I've brought together key HR metrics, turning raw data into actionable insights for smarter decision-making.
 hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#HR
+
+
+
