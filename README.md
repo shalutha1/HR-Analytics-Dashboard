@@ -8,4 +8,4 @@ hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#HR
 
 
 
-https://github.com/shalutha1/HR-Analytics-Dashboard/issues/1#issue-2364968992
+![fg](https://github.com/shalutha1/HR-Analytics-Dashboard/assets/90474520/8eea30f0-184a-4d77-ae66-c16ccec47732)
